@@ -1,0 +1,2 @@
+# Automation-with-Github-Docker-and-Jenkins
+n this project I have created an automation and for this I used Github . Jenkins (automation tool ) and deployed this with help of containerisaton technology over dockers .  What I finally Acheived : As I push any changes to my developer environment ( Dev branch) it triggers a job to copy the changes to deploy over docker where it is tested by QA team then on single click it is deployed to merge with production environment ( master branch ) and the change is deployed to our main website with help of docker containers.
